@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xamp
+echo 0 string SCHOOL > school.mgc
